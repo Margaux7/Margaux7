@@ -30,12 +30,5 @@ I'm a frontend or full stack developer.
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bytedance&repo=byteinspire-js-sdk)](https://github.com/bytedance/byteinspire-js-sdk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byteinspire&repo=hosting-deployer-action)](https://github.com/byteinspire/hosting-deployer-action)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byteinspire&repo=cloud-project-deployer-action)](https://github.com/byteinspire/cloud-project-deployer-action)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margaux7&repo=fastify-rate-limiter)](https://github.com/Margaux7/fastify-rate-limiter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margaux7&repo=react-masonry-list)](https://github.com/Margaux7/react-masonry-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margaux7&repo=react-simple-day-picker)](https://github.com/Margaux7/react-simple-day-picker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaux7&layout=compact)](https://github.com/margaux7/github-readme-stats)
