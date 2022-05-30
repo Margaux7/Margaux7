@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a frontend or full stack developer.
+I'm a frontend and maybe a full stack developer.
 
 - 🔭 I’m currently working on [ByteDance](https://www.bytedance.com/).
 
