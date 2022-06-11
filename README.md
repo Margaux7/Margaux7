@@ -1,8 +1,6 @@
 # Hi there 👋
 I'm a frontend and maybe a full stack developer.
 
-- 🔭 I’m currently working on [ByteDance](https://www.bytedance.com/).
-
 - 🌱 I’m currently learning **Docker, Python3, Django**
 
 - 📫 How to reach me **margaux7222@gmail.com**
